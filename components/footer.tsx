@@ -80,7 +80,7 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary" />
                 <a
-                  href="mailto:hello@luxestay.com"
+                  href="mailto:harshahjain4@gmail.com"
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
                   harshahjain4@gmail.com
