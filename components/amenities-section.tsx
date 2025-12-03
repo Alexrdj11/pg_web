@@ -62,7 +62,7 @@ export function AmenitiesSection() {
             Beyond Accommodation
           </h2>
           <p className="max-w-2xl mx-auto text-muted-foreground text-lg text-pretty">
-            Every amenity designed to elevate your student experience. Live the lifestyle you deserve.
+            Every amenity designed to elevate your  experience. Live the lifestyle you deserve.
           </p>
         </div>
 

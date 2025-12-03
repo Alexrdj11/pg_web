@@ -73,8 +73,7 @@ export function RoomsGallery() {
             Premium Living Spaces
           </h2>
           <p className="max-w-2xl mx-auto text-muted-foreground text-lg text-pretty">
-            Experience comfort and convenience in our thoughtfully designed accommodations, built for the modern student
-            lifestyle.
+            Experience comfort and convenience in our thoughtfully designed accommodations.
           </p>
         </div>
 
